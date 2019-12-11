@@ -1,0 +1,45 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Header renders correctly 1`] = `
+<header
+  style={
+    Object {
+      "backgroundColor": "#3f51b5",
+      "marginBottom": "1.45rem",
+    }
+  }
+>
+  <div
+    className="MuiBox-root MuiBox-root-2"
+    style={
+      Object {
+        "margin": "0 auto",
+        "maxWidth": 960,
+        "padding": "1.45rem",
+      }
+    }
+  >
+    <h1
+      className="MuiTypography-root MuiTypography-h4"
+      style={
+        Object {
+          "fontWeight": 700,
+          "margin": "0 auto",
+        }
+      }
+    >
+      <a
+        href="/"
+        style={
+          Object {
+            "color": "#fff",
+            "textDecoration": "none",
+          }
+        }
+      >
+        Test Title
+      </a>
+    </h1>
+  </div>
+</header>
+`;
